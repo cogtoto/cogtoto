@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @cogtoto (Vincent Cognet)
+- 👀 I’m interested in lambda calculus, pure type systems, with Scheme, Ocaml and Coq languages
+- 🌱 I’m currently learning operating systems build
+- 📫 How to reach me: cognetvincent@gmail.com
+
+<!---
+cogtoto/cogtoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
