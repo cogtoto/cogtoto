@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cogtoto (Vincent Cognet)
-- 👀 I’m interested in lambda calculus, pure type systems. I code with Scheme, Ocaml and Coq.
+- 👀 I’m interested in lambda calculus, pure type systems. I code with Scheme, Ocaml, Coq and Agda.
 - 🌱 I’m currently building a COQ in COQ
 - 📫 How to reach me: cognetvincent@gmail.com
 
