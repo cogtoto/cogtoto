@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @cogtoto (Vincent Cognet)
-- 👀 I’m interested in lambda calculus, pure type systems. I code with Scheme, Ocaml, Coq and Agda.
-- 🌱 I’m currently building a COQ in COQ
+- 👀 I’m interested in lambda calculus, pure type systems. I code with Scheme, Ocaml, Coq, Agda and Lean4
+
+- 🌱 I’m currently exploring Lean4 and theorems prooving using LLMs
 - 📫 How to reach me: cognetvincent@gmail.com
 
 <!---
